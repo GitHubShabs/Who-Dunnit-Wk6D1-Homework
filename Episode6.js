@@ -17,3 +17,5 @@ const declareMurderer = function () {
 changeMurderer();
 const verdict = declareMurderer();
 console.log(verdict);
+
+// Not sure about this one.
