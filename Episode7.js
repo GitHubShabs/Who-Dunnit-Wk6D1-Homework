@@ -23,3 +23,6 @@ const declareMurderer = function() {
 changeMurderer();
 const verdict = declareMurderer();
 console.log(verdict);
+
+// The murderer is Mr Green, because the declareMurderer function uses The
+// murderer Mr Green is declared in the outermost const varible (Line4)
