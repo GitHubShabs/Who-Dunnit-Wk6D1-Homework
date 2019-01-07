@@ -11,3 +11,6 @@ const declareMurderer = function() {
 changeMurderer();
 const verdict = declareMurderer();
 console.log(verdict);
+
+// I prediced this would end in error because const murderer has been declared
+// twice using const in line 1 and 4.
