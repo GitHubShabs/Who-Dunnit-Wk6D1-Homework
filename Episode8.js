@@ -32,3 +32,6 @@ const declareWeapon = function() {
 changeScenario();
 const verdict = declareWeapon();
 console.log(verdict);
+
+// The weapon is candle stick because its the only scenario.weapon that has been declared.
+//
